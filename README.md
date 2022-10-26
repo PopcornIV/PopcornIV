@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and applications designing
 - 🌱 I’m currently learning full stck development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... kymbrilliant1710@gmail.com
+- 📫 How to reach me... korirkimutai444@gmail.com
 
 <!---
 PopcornIV/PopcornIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
